@@ -1,0 +1,20 @@
+D:\RAD\PM System RAD\PM System RAD\bin\Debug\PM System RAD.exe.config
+D:\RAD\PM System RAD\PM System RAD\bin\Debug\PM System RAD.exe
+D:\RAD\PM System RAD\PM System RAD\bin\Debug\PM System RAD.pdb
+D:\RAD\PM System RAD\PM System RAD\bin\Debug\PM System RAD.xml
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM System RAD.vbprojAssemblyReference.cache
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM_System_RAD.Resources.resources
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM System RAD.vbproj.GenerateResource.cache
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM System RAD.vbproj.CoreCompileInputs.cache
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM System RAD.exe
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM System RAD.xml
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM System RAD.pdb
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM_System_RAD.Loading.resources
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM_System_RAD.Login.resources
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM_System_RAD.Home.resources
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM_System_RAD.Medicine.resources
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM_System_RAD.Biling.resources
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM_System_RAD.Manufacturer.resources
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM_System_RAD.About.resources
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM_System_RAD.Employee.resources
+D:\RAD\PM System RAD\PM System RAD\obj\Debug\PM_System_RAD.Dashbord.resources

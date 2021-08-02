@@ -1,0 +1,241 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PM System RAD
+</name>
+</assembly>
+<members>
+<member name="T:PM_System_RAD.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources._56cda80c439c4c2b4396dec02ca53596">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.aboutME">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.add_dollar_24px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.add_tag_40px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.add_tag_40px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.back_24px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.back_24px1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.delete_database_48px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.manufacturing_40px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.medical_doctor_40px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.newPic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.Newpic3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.pill">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.pill_48px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.preview_pane_64px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.print_40px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.refresh_shield_64px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:PM_System_RAD.My.Resources.Resources.shutdown_64px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSet.BillsTBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSet.CompanyTBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSet.EmployeeTBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSet.MedicineTBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSet.BillsTBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSet.CompanyTBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSet.EmployeeTBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSet.MedicineTBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSet.BillsTBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSet.CompanyTBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSet.EmployeeTBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSet.MedicineTBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSetTableAdapters.BillsTBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSetTableAdapters.CompanyTBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSetTableAdapters.EmployeeTBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSetTableAdapters.MedicineTBTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PM_System_RAD.PM_SystemDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PM_System_RAD.PM_SystemDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PM_System_RAD.PM_SystemDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PM_System_RAD.PM_SystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PM_System_RAD.PM_SystemDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PM_System_RAD.PM_SystemDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PM_System_RAD.PM_SystemDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PM_System_RAD.PM_SystemDataSetTableAdapters.TableAdapterManager.UpdateAll(PM_System_RAD.PM_SystemDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PM_System_RAD.PM_SystemDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
